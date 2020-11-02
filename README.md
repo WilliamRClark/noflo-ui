@@ -1,3 +1,12 @@
+# Custom fork of NoFlo-Ui Project
+
+## Notes:
+To customize our UI, run setEnv.sh prior to running the build.
+'''bash
+source ./setEnv.sh
+'''
+
+
 # NoFlo Development Environment
 
 The NoFlo Development Environment is an offline-capable, client-side web application
